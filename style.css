@@ -1,0 +1,18 @@
+img{
+ line-height: normal;
+ background-color: aqua;
+}
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    color: red
+}
+
+p { 
+    font-size: 25px;
+}
